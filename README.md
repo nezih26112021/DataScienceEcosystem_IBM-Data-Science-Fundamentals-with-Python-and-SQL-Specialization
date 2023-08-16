@@ -29,8 +29,8 @@ Objectives:
 
 Data Science Tools
 
-Jupyter Notebooks
-RStudio
+Jupyter Notebooks,
+RStudio,
 Apache Zeppelin
 
 1.1.3 Below are a few examples of evaluating arithmetic expressions in Python
